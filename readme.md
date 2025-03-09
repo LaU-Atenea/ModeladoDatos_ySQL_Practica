@@ -1,4 +1,4 @@
-*PRACTICA DE MODELADO DE DATOS Y SQL*
+#PRACTICA DE MODELADO DE DATOS Y SQL
 
 Se pide crear un software para registrar los préstamos y el inventario de películas de un videoclub.
 
